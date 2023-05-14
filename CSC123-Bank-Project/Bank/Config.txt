@@ -1,0 +1,5 @@
+support.currencies=true
+currencies.source=rest
+webservice.url= http://www.usman.cloud/banking/exchange-rate.csv
+rest.url=https://openexchangerates.org/api/latest.json?app_id=aa2eeac576bc47e3a8a71b33f8844651
+currency.file= exchange-rate.csv
